@@ -3,7 +3,7 @@
 Golang HTTP.Handler for [graphl-go](https://github.com/base-dev/graphql)
 
 ### Notes:
-This is based on alpha version of `base-dev` and `graphql-relay-go`. 
+This is based on alpha version of `graphql-go` and `graphql-relay-go`. 
 Be sure to watch both repositories for latest changes.
 
 ### Usage
